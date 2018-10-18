@@ -139,7 +139,6 @@ public class Main {
 	
 	public static void main(String[] args) throws IOException {
 		System.out.println(" - - - - - - - - - - - - - - - - UCL EPIC-CP Follow-up Check - - - - - - - - - - - - - - - - ");
-		System.out.println(" - - - Emre Savas (emre.savas@kcl.ac.uk), Aylin Savas (aylin.sarova.15@ucl.ac.uk)- - - - - - ");
 		System.out.println(" - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ");
 		String filename = "data/sample_data.xlsx";
 		ArrayList<Entry> entries = readExcel(filename);
